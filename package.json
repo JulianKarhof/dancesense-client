@@ -1,0 +1,20 @@
+{
+  "name": "dance-sense-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nut-tree/nut-js": "^3.1.1",
+    "@types/serialport": "^8.0.2",
+    "robotjs": "^0.6.0",
+    "serialport": "^11.0.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}
